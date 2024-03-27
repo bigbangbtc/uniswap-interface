@@ -1,3 +1,4 @@
+// @ts-ignore
 import { UAParser } from 'ua-parser-js'
 
 // TODO(WEB-3908): Switch to definition in packages/uniswap once fixed
